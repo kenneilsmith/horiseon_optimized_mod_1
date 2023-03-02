@@ -43,7 +43,7 @@ nav ul li {
     margin-left: 25px;
 }
 
-/* setting all <a> */
+/* --------- default styling for <a>, <p>, <h2>, <h3> and <img> ----------------*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -73,6 +73,9 @@ img {
     /* max-width: 150px; */
 }
 
+/* ........................................... */
+
+/* positioning and styling cover image */
 .hero {
     height: 800px;
     width: 100%;
@@ -110,6 +113,7 @@ img {
     max-height: 200px;
 }
 
+/* positioning of the benefit section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -123,15 +127,16 @@ img {
 
 .benefits div {
     margin-bottom: 30px;
-
 }
 
+/* Styling the images in the benefit section */
 .benefits img {
     display: block;
     margin: 10px auto 32px;
     max-width: 150px;
 }
 
+/* Footer */
 .footer {
     padding: 30px;
     clear: both;
