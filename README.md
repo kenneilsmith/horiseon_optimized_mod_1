@@ -9,6 +9,7 @@ Optimized the Horiseon webpage to make it more accessible. Included more semanti
 N/A
 
 ## Deployment
+https://kenneilsmith.github.io/horiseon_optimized_mod_1/
 
 ## Github Link
 https://github.com/kenneilsmith/horiseon_optimized_mod_1
